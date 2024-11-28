@@ -34,4 +34,16 @@ The aim of this project is to create an interactive and visually appealing Memor
    ```bash
    cd Memory-Card-Game
    
-3. Open the index.html file in your browser to start playing the game.
+3. Open the **index.html** file in your browser to start playing the game.
+
+## How to Play
+1) Open the game in your browser.
+2) Click on any card to reveal the image.
+3) Try to find another card with the same image.
+4) Match all the pairs to win the game.
+
+## Future Enhancements
+- Adding a timer to challenge players.
+- Including a leaderboard for tracking high scores.
+- Implementing different difficulty levels (e.g., increasing the number of cards).
+- Enhancing animations and sound effects for a richer user experience.
